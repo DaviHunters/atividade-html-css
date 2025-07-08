@@ -1,8 +1,12 @@
 body {
- background-color: #2501f5;
+ background-color: #2907eb;
  font-family: Arial, sans-serif;
  text-align: center;
 }
 h1 {
- color: rgb(192, 4, 4);
+ color: rgb(16, 203, 236);
+}
+p{
+ color:#11f1a7;
+ font-size:antiquewhite;
 }
